@@ -3,7 +3,7 @@
 
 **开发人员列表：**
 
-- ExistoT01
+- [ExistoT01](https://github.com/ExistoT01?tab=repositories)
 - .
 - raw recruit
 - 魏
